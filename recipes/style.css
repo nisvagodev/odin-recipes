@@ -1,0 +1,14 @@
+body {
+  background-color: #fff3b0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe-title {
+  text-align: center;
+  background-color: #540b0e;
+  color: #e09f3e;
+}
+
+hr {
+  border-color: #540b0e;
+}
