@@ -1,27 +1,42 @@
 body {
   background-color: #fff3b0;
   font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
 }
 
 .gif {
   width: 500px;
-  height: auto;
+  display: block;
+  margin: 30px auto;
+  border-radius: 60px;
 }
 
 .title {
   font-size: 60px;
   text-align: center;
-  background-color: #540b0e;
-  color: #e09f3e;
-}
-
-.nav-style li a {
-  font-size: 18px;
-  text-decoration: underline;
   color: #540b0e;
-  font-weight: bold;
 }
 
 .nav-style {
+  color: #540b0e;
+}
+
+.container {
+  padding: 5px 20px;
+  border: 2px solid #540b0e;
+  border-radius: 20px;
+  width: 450px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.recipe {
+  padding: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #540b0e;
+}
+
+.recipe a {
   color: #540b0e;
 }
