@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #023047;
+  width: 650px;
+  margin: 0 auto;
+}
+
+.title {
+  color: #ffb703;
+  text-align: center;
+  font-size: 38px;
+  margin-top: 16px;
+  margin-bottom: 22px;
+}
+
+.recipes {
+  list-style: none;
+  font-size: 18px;
+  text-align: center;
+}
+
+.recipes li a,
+li {
+  text-decoration: underline;
+  color: #8ecae6;
+  display: inline-block;
+  font-size: 24px;
+}
+
+.recipes li a {
+  margin: 16px 50px 100px 16px;
+}
+
+.container {
+  width: 650px;
+  height: 640px;
+  border: 6px solid #ffb703;
+  border-radius: 16px;
+}
+
+.food-img {
+  width: 600px;
+  height: auto;
+  border-radius: 22px;
+}
