@@ -2,26 +2,10 @@ body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   background-color: #023047;
+  width: 650px;
+  margin: 0 auto;
 }
 
-.title {
-  color: #ffb703;
-  text-align: center;
-  font-size: 32px;
-}
-
-.recipes {
-  text-align: center;
-  list-style: none;
-  font-size: 18px;
-}
-
-.recipes li a {
-  text-decoration: underline;
-  color: #8ecae6;
-}
-
-/* Recipes  */
 .home {
   color: #8ecae6;
 }
