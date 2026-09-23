@@ -1,3 +1,3 @@
-# Recipes
+# Odin Recipes
 
-A webpage about recipes, in which I demonstrate my knowledge in links with HTML.
+A webpage about recipes, in which I demonstrate my knowledge with HTML.
