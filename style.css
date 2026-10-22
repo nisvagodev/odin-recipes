@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #D9F0FF;
+    color: #6F73D2;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin-right: 12px;
+}
+
+a {
+    color: inherit;
+}
